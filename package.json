@@ -1,0 +1,7 @@
+{
+  "name": "isola-del-valore",
+  "private": true,
+  "type": "module",
+  "engines": { "node": "24.x" },
+  "scripts": { "start": "node start.mjs" }
+}
